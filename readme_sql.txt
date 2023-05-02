@@ -1,3 +1,5 @@
+Discord - Sabina T.#9894
+
 Cílem projektu bylo odpovědět na zadaných 5 otázek. Ačkoliv jsem vytvářela 2 tabulky dle zadání:
 
 t_sabina_trcova_project_sql_primary_final
